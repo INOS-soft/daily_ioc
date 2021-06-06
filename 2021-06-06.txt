@@ -9,6 +9,7 @@ http://fesfesfsefes.000webhostapp.com/index.php,azorult
 http://gdelogiblya.000webhostapp.com/index.php,azorult
 http://kaledebiyat.com/upload/,smokeloader
 http://knmedia.co.kr/wp-includes/images/app/five/fre.php,lokibot
+http://msslrsa-motherson.com/dumbo/dumbo1/fre.php,lokibot
 http://notfortuaj.net/,smokeloader
 http://tqg.myhoost.com/bs/wp.php,lokibot
 http://twcamel.com/upload/,smokeloader
@@ -28,6 +29,7 @@ https://sites.google.com/view/5509345809994300/drive/folders/storage/shared/down
 https://sites.google.com/view/7094804509345/home/drive/storage/files/download?d=247473471476024829,icedid
 https://sites.google.com/view/77540082345430823/drive/storage/shared/files/download?h=260014475666583264,icedid
 https://sites.google.com/view/b2d94bh1003njee/drive/storage/a/files/download?fileID=342388082116481212,icedid
+jevanerrin.xyz:80,redline
 rirgustauis.xyz:80,redline
 tevomishn.xyz:80,redline
 trucker5.ddns.net:3341,remcos
