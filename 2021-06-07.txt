@@ -1,10 +1,17 @@
+106.157.122.206:54984,nanocore
 http://al-ifah.com/PL341/index.php,azorult
 http://al-ifah.com/PL342/index.php,azorult
 http://cocinasintonterias.com/upload/,smokeloader
 http://fesfesfsefes.000webhostapp.com/index.php,azorult
+http://gdelogiblya.000webhostapp.com/index.php,azorult
+http://goog1e.ezua.com:443/books/,cobaltstrike
+http://helpersgroup.co.ug/index.php,smokeloader
 http://holohololo.000webhostapp.com/index.php,azorult
+http://kaledebiyat.com/upload/,smokeloader
 http://msslrsa-motherson.com/chief/boss/fre.php,lokibot
 http://msslrsa-motherson.com/chief/har/fre.php,lokibot
 http://msslrsa-motherson.com/dumbo/dumbo2/fre.php,lokibot
+https://helpersgroup.co.ug/index.php,smokeloader
 matjiva.top:80,redline
+redvelvet.ddns.net:8282,nanocore
 wedsazxcvfghyuiokjhbnvfcdsaweyplmhbvrtud.ydns.eu:1996,remcos
