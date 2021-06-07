@@ -47,6 +47,7 @@
 adikremix.ydns.eu:3030,asyncrat
 anarhi2402.com:4039,systembc
 anarhi2402.xyz:4039,systembc
+app.bighomegl.at,gozi_ifsb
 asynco.ydns.eu:2121,asyncrat
 chasesure.ddns.net:2404,remcos
 chasesure.duckdns.org:2404,remcos
@@ -61,6 +62,8 @@ formaicafeng123.ddns.net:35317,nanocore
 gamelom20.com:4035,systembc
 ghsgatvxbznmklopwagdhusvxbznxgtewuahjkop.ydns.eu:6932,remcos
 gsyagvxnzmkoplbhduisbagtevcnxmzlopljdgye.ydns.eu:2177,remcos
+hjduiebcvzcalpmjdbcnwqadhsiybcnzxswedgap.ydns.eu:2024,remcos
+http://176.121.14.231:80/OHXm,metasploit
 http://185.212.128.68/newpan/index.php,azorult
 http://192.119.111.43/decy/fre.php,lokibot
 http://203.159.80.40/PL341/index.php,azorult
@@ -111,6 +114,7 @@ http://vet.hr/sql/udo/index.php,azorult
 http://www.11n.us/j2/index.php,azorult
 http://www.adssail.com/tlbk/,formbook
 http://www.ashtanews.com/grb/,formbook
+http://www.celinehair.com/e7hf/,formbook
 http://www.girlsnightbag.com/dms/,formbook
 http://www.skindulgenceatl.com/lth/,formbook
 https://crown-sign.com/post.php,zloader
