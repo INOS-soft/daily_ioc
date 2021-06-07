@@ -6,6 +6,7 @@
 155.94.185.117:6606,asyncrat
 157.90.251.148:53294,redline
 160.154.51.146:50056,nanocore
+172.78.51.35:443,qakbot
 18.159.60.203:8080,redline
 185.173.36.104:44030,redline
 185.215.113.206:80,redline
@@ -24,6 +25,7 @@
 77.220.64.135:443,dridex
 77.247.110.178:2828,nanocore
 79.134.225.10:31743,nanocore
+79.134.225.8:8654,remcos
 79.134.225.92:44322,nanocore
 79.134.225.99:35317,nanocore
 adikremix.ydns.eu:3030,asyncrat
@@ -87,9 +89,12 @@ http://www.11n.us/j2/index.php,azorult
 http://www.adssail.com/tlbk/,formbook
 http://www.ashtanews.com/grb/,formbook
 http://www.girlsnightbag.com/dms/,formbook
+http://www.skindulgenceatl.com/lth/,formbook
 https://crown-sign.com/post.php,zloader
 https://extrimefigim.top/news/,icedid
 https://helpersgroup.co.ug/index.php,smokeloader
+https://sites.google.com/view/5509345809994300/drive/folders/storage/shared/download?ID=456562510225149430,icedid
+https://sites.google.com/view/g0u3hvdk4k45/drive/storage/a/files/download?d=446466465629607595,icedid
 https://vindurualeg.top/news/,icedid
 https://yudi-cn.com/3_UVoWUHfD165.bin,guloader
 kaygeorge456.duckdns.org:6606,asyncrat
@@ -97,6 +102,9 @@ kaygeorge456.duckdns.org:7707,asyncrat
 kaygeorge456.duckdns.org:8808,asyncrat
 lyanannaron.xyz:80,redline
 matjiva.top:80,redline
+metarx.ddnsking.com:6008,asyncrat
+metarx.ddnsking.com:8779,asyncrat
+metarx.ddnsking.com:9800,asyncrat
 mexch.ddnsking.com:2404,remcos
 morleg01.top,cryptbot
 morzcm07.top,cryptbot
