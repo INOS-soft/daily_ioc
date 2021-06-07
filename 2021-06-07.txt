@@ -2,6 +2,7 @@
 106.157.122.206:54984,nanocore
 116.203.140.78:2404,remcos
 127.0.0.1:54402,nanocore
+155.94.185.117:6606,asyncrat
 157.90.251.148:53294,redline
 160.154.51.146:50056,nanocore
 18.159.60.203:8080,redline
@@ -10,6 +11,7 @@
 185.29.9.47:8808,asyncrat
 192.169.69.25:1881,nanocore
 193.38.54.196:29094,redline
+194.5.97.197:54402,nanocore
 194.5.98.11:1990,nanocore
 194.5.98.8:3030,asyncrat
 45.153.230.81:6945,redline
@@ -28,6 +30,7 @@ formaicafeng123.ddns.net:35317,nanocore
 gsyagvxnzmkoplbhduisbagtevcnxmzlopljdgye.ydns.eu:2177,remcos
 http://185.212.128.68/newpan/index.php,azorult
 http://192.119.111.43/decy/fre.php,lokibot
+http://203.159.80.40/PL341/index.php,azorult
 http://al-ifah.com/PL341/index.php,azorult
 http://al-ifah.com/PL342/index.php,azorult
 http://cocinasintonterias.com/upload/,smokeloader
@@ -50,8 +53,10 @@ http://smkn1cilegon.sch.id/Vbcx/index.php,azorult
 http://twcamel.com/upload/,smokeloader
 http://vet.hr/sql/udo/index.php,azorult
 http://www.ashtanews.com/grb/,formbook
+http://www.girlsnightbag.com/dms/,formbook
 https://crown-sign.com/post.php,zloader
 https://helpersgroup.co.ug/index.php,smokeloader
+https://yudi-cn.com/3_UVoWUHfD165.bin,guloader
 kaygeorge456.duckdns.org:6606,asyncrat
 kaygeorge456.duckdns.org:7707,asyncrat
 kaygeorge456.duckdns.org:8808,asyncrat
