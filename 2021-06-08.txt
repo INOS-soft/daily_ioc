@@ -4,6 +4,7 @@
 ghsgatvxbznmklopwagdhusvxbznxgtewuahjkop.ydns.eu:6932,remcos
 gsyagvxnzmkoplbhduisbagtevcnxmzlopljdgye.ydns.eu:2177,remcos
 hjduiebcvzcalpmjdbcnwqadhsiybcnzxswedgap.ydns.eu:2024,remcos
+http://cdnforest.com:443/tab_shop_active.js,cobaltstrike
 http://ontmintuejio.sytes.net/botton/Panel/five/fre.php,lokibot
 http://twcamel.com/upload/,smokeloader
 http://www.czpls.com/slpb/,formbook
