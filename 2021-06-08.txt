@@ -1,8 +1,13 @@
+159.69.237.186:443,dridex
+207.210.192.60:8172,dridex
+51.77.82.110:9987,dridex
 ghsgatvxbznmklopwagdhusvxbznxgtewuahjkop.ydns.eu:6932,remcos
 gsyagvxnzmkoplbhduisbagtevcnxmzlopljdgye.ydns.eu:2177,remcos
 hjduiebcvzcalpmjdbcnwqadhsiybcnzxswedgap.ydns.eu:2024,remcos
+http://ontmintuejio.sytes.net/botton/Panel/five/fre.php,lokibot
 http://twcamel.com/upload/,smokeloader
 matjiva.top:80,redline
 sdfsbvfbfda.duckdns.org:8050,asyncrat
 sketchftp.ddns.net:31743,nanocore
 sketchvip.ddns.net:31743,nanocore
+wedsazxcvfghyuiokjhbnvfcdsaweyplmhbvrtud.ydns.eu:1996,remcos
